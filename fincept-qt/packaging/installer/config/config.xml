@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>QuantPilot Terminal</Name>
+    <Version>1.0.0</Version>
+    <Title>QuantPilot Setup</Title>
+    <Publisher>QuantPilot Open Source</Publisher>
+    <StartMenuDir>QuantPilot</StartMenuDir>
+    <TargetDir>@ApplicationsDir@\QuantPilot</TargetDir>
+    <InstallerWindowIcon>config/quantpilot_install.ico</InstallerWindowIcon>
+    <InstallerApplicationIcon>config/quantpilot_install.ico</InstallerApplicationIcon>
+    <WizardStyle>Classic</WizardStyle>
+    <Background>config/background.png</Background>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+    <RunProgram>@TargetDir@\QuantPilot.exe</RunProgram>
+    <RunProgramDescription>Launch QuantPilot Terminal</RunProgramDescription>
+    <ControlScript>controlscript.qs</ControlScript>
+</Installer>
