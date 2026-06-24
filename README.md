@@ -125,3 +125,4 @@ cmake --build --preset macos-release    # macOS
 | ❌ **Commercial License required** | Any business use (paid or free) · Internal company use · Startups at any stage · Hedge funds, brokerages, banks, fintechs · SaaS / hosted offerings · White-label or reselling |
 
 © 2025–2026 QuantPilot AI. All rights reserved.
+|---|---|
